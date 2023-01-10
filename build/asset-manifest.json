@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65968f28.css",
+    "main.js": "/static/js/main.7dffeda7.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/KIIT-logo-HD.png": "/static/media/KIIT-logo-HD.84ec0e63e2e157ac489d.png",
+    "static/media/coffee.png": "/static/media/coffee.7f2779f4707ae439e014.png",
+    "static/media/bg.jpeg": "/static/media/bg.fd973fb61101462141a1.jpeg",
+    "static/media/KIIT-3.png": "/static/media/KIIT-3.db2bd29dcfb89246dec7.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.65968f28.css.map": "/static/css/main.65968f28.css.map",
+    "main.7dffeda7.js.map": "/static/js/main.7dffeda7.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65968f28.css",
+    "static/js/main.7dffeda7.js"
+  ]
+}
